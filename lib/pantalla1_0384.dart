@@ -7,27 +7,23 @@ class Pantalla1_0384 extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(
-        title: const Text('Pantalla 1 Mendez0384'),
-        backgroundColor: Colors.deepPurpleAccent,
-      ),
-      body: Center(
-        child: Column(
-          mainAxisAlignment: MainAxisAlignment.center,
-          children: [
-            ElevatedButton(
-                onPressed: () {}, child: const Text('Volver a La Pantalla')),
-            Container(
-              padding: const EdgeInsets.all(0),
-              decoration: BoxDecoration(
-                border: Border.all(),
-              ),
-              child:
-                  const Text('Danna Mendez', style: TextStyle(fontSize: 20.0)),
-            )
-          ],
+        appBar: AppBar(
+          title: const Text('Card P1 Mendez0384'),
+          backgroundColor: Color(0xffff3293),
         ),
-      ),
-    );
+        body: Center(
+            child: Card(
+          elevation: 10,
+          shape:
+              RoundedRectangleBorder(borderRadius: BorderRadius.circular(30)),
+          color: Color(0xffff96b9),
+          child: Padding(
+            padding: EdgeInsets.all(16),
+            child: Text(
+              'Card Mendez',
+              style: TextStyle(fontSize: 30, color: Colors.white),
+            ),
+          ),
+        )));
   }
 }

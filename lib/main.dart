@@ -9,10 +9,13 @@ class MiApp0384 extends StatelessWidget {
   const MiApp0384({Key? key}) : super(key: key);
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(initialRoute: '/', routes: {
-      '/': (context) => const PantallaInicial_0384(),
-      '/Pantalla1_0384': (context) => const Pantalla1_0384(),
-      '/Pantalla2_0384': (context) => const Pantalla2_0384(),
-    });
+    return MaterialApp(
+        debugShowCheckedModeBanner: false,
+        initialRoute: '/',
+        routes: {
+          '/': (context) => const PantallaInicial_0384(),
+          '/Pantalla1_0384': (context) => const Pantalla1_0384(),
+          '/Pantalla2_0384': (context) => const Pantalla2_0384(),
+        });
   } // Fin widget
 } // Fin de MiApp0384
