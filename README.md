@@ -18,8 +18,10 @@ samples, guidance on mobile development, and a full API reference.
 - How to use FlutLab? Please, view our https://flutlab.io/docs
 - Join the discussion and conversation on https://flutlab.io/residents
 ## Link de Referencia
-https://github.com/flutter-teacher/card-widget/blob/main/card_test.dart
+[https://github.com/flutter-teacher/card-widget/blob/main/card_test.dart](https://github.com/flutter-teacher/container-widget/blob/main/main.dart)https://github.com/flutter-teacher/container-widget/blob/main/main.dart
 Danna a.21308051280384@cbtis128.edu.mx
-![image](https://github.com/MendezD128/Act14_RutasDise-os/assets/143744206/f6c4e43b-4344-4cb0-8de1-03956e7cba6a)
-![image](https://github.com/MendezD128/Act13_PageRouter/assets/143744206/158c9160-cc38-42ed-bf30-3bffe1105d6a)
-![image](https://github.com/MendezD128/Act13_PageRouter/assets/143744206/5fc73337-a656-4d5e-acb5-f0f817ac7acf)
+
+![image](https://github.com/MendezD128/Act14_RutasDisenos0384/assets/143744206/4902d130-de1b-4964-95b4-e65338226cc4)
+![image](https://github.com/MendezD128/Act14_RutasDisenos0384/assets/143744206/99b96a0e-8c9e-4a07-8e1e-65e700050b5e)
+![image](https://github.com/MendezD128/Act14_RutasDisenos0384/assets/143744206/751f266c-b74f-4f72-9db8-ee8dae37f5d1)
+![image](https://github.com/MendezD128/Act14_RutasDisenos0384/assets/143744206/31b3166c-039c-4c88-9511-e73ca79bc877)
