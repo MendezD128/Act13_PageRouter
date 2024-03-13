@@ -7,29 +7,25 @@ class Pantalla2_0384 extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
         appBar: AppBar(
-          title: Text("Card P2 Mendez0384"),
-          backgroundColor: Color(0xff7057ff),
+          title: Text("Container P2 Mendez 0384"),
+          backgroundColor: Color(0xff555555),
         ),
         body: Center(
           child: Container(
-            color: Color(0xff3d07ff),
-            width: double.infinity,
-            height: 300,
-            child: Card(
-              color: Color(0xff85ddff),
-              shape: RoundedRectangleBorder(
-                borderRadius: BorderRadius.circular(20),
-              ),
-              elevation: 10,
-              shadowColor: Colors.red,
-              margin: EdgeInsets.all(32),
-              child: Padding(
-                padding: EdgeInsets.all(16),
-                child: Text(
-                  'Card 2 Mendez',
-                  style: TextStyle(fontSize: 30, color: Color(0xff5900ff)),
-                ),
-              ),
+            color: Color(0xff2b982f),
+            constraints: BoxConstraints(
+              minHeight: 100,
+              minWidth: 200,
+              maxHeight: 300,
+              maxWidth: 300,
+            ),
+            padding: EdgeInsets.all(32),
+            child: Text(
+              'Mendez 0384',
+              style: TextStyle(
+                  fontSize: 30,
+                  color: Colors.white,
+                  fontWeight: FontWeight.w700),
             ),
           ),
         ));
